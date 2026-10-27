@@ -2,7 +2,7 @@
 
 Addis Eats is an Ethiopian food-ordering web application built with Next.js. Customers can browse dishes, manage favorites and their cart, authenticate, place orders, and view order information. Staff can access a protected kitchen area.
 
-**Live application:** https://addis-eats-nextjs-o13s.vercel.app/
+**Live application:** 
 
 ## Features
 
@@ -86,7 +86,7 @@ Refer to `DATA.md` for the documented data sources, storage behavior, and limita
 
 ## Deployment
 
-**Live URL:** https://addis-eats-nextjs-o13s.vercel.app/
+**Live URL:** 
 
 The application is deployed on Vercel. The configured project root and environment variables must match the current project.
 

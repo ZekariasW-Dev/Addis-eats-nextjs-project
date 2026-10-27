@@ -12,7 +12,7 @@ export default function OrderLiveStatus({
 }) {
   const [status, setStatus] = useState(initialStatus || "Preparing");
   const [connection, setConnection] = useState("connecting");
-  const [updatedAt, setUpdatedAt] = useState(nul
+  const [updatedAt, setUpdatedAt] = useState(null);
   const [demoStream, setDemoStream] = useState(false);
 
   useEffect(() => {
